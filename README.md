@@ -55,4 +55,4 @@ The Power BI and Tableau dashboards visualize the SQL insights through:
 This project highlights the ability to manipulate large datasets using SQL and translate those numbers into visual narratives using industry-standard BI tools. It showcases proficiency in both backend data processing and frontend dashboard design.
 
 ---
-*Created by [Your Name]*
+*Created by [Ajay Kumar]*
