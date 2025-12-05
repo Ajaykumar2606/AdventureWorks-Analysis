@@ -1,5 +1,10 @@
 # AdventureWorks Sales & Customer Analysis 🚴‍♂️📊
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ## 📌 Project Overview
 This project involves a comprehensive end-to-end analysis of the **AdventureWorks** database. The goal was to transform raw sales data into actionable insights to support business decision-making regarding sales performance, product profitability, and customer demographics.
 
@@ -50,4 +55,4 @@ The Power BI and Tableau dashboards visualize the SQL insights through:
 This project highlights the ability to manipulate large datasets using SQL and translate those numbers into visual narratives using industry-standard BI tools. It showcases proficiency in both backend data processing and frontend dashboard design.
 
 ---
-*Created by [Ajay Kumar]*
+*Created by [Your Name]*
